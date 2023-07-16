@@ -1,0 +1,16 @@
+#color{
+ height:400px;
+ width:900px;
+ margin-left:300px;
+ background-color:orange;
+ margin-top:40px;
+}
+.button{
+    background-color:blue;
+    height:50px;
+    width:100px;
+    margin-left:300px;
+    margin-top:70px;
+}
+
+
